@@ -1,6 +1,5 @@
 import tkinter as tk
-from tkinter import Image, Label, PhotoImage, StringVar, ttk
-from tkinter import font
+from tkinter import Image, ttk
 import tkinter.messagebox as msg
 from PIL import Image, ImageTk
 import os, shutil
